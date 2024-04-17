@@ -9,3 +9,5 @@ Autor: Dilip
 3. Last seen code
 
 4. Attachements(Image, Audio, video) Code
+
+5. Hiding the last seen

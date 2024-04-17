@@ -15,3 +15,5 @@ Autor: Dilip
 6. Adding the audio call feature
 
 7. Adding the video call feature
+
+8. Adding status so that users can play train games.
